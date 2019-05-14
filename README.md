@@ -14,7 +14,7 @@ ctx.closePath()
 ctx.lineWidth = 5.0; // 设置线宽
 ctx.strokeStyle = '#CC0000'; // 设置线的颜色
 ctx.stroke(); // 进行线的着色，这时整条线才变得可见
-}
+}a
   
 }
   </script>
